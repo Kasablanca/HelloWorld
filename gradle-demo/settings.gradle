@@ -18,4 +18,3 @@ include 'services:webservice'
 rootProject.name = 'gradle-demo'
 // dev mod
 // master
-// dev mod1
