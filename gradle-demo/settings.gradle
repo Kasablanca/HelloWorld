@@ -17,5 +17,4 @@ include 'services:webservice'
 
 rootProject.name = 'gradle-demo'
 // local mod
-=
 // remote modification
